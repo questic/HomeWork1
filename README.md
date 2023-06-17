@@ -6,15 +6,19 @@
 ```
     mkdir build
 ```
-3) Run cmake:
+3) Go to the build directory:
+```
+    cd build
+```
+4) Run cmake:
 ```
     cmake ..
 ```    
-4) Run make:
+5) Run make:
 ```
     make
 ```    
-5) Run binary file:
+6) Run binary file:
 ```
     ./HomeWork1
 ```  
