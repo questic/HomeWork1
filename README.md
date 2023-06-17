@@ -14,5 +14,9 @@
 ```
     make
 ```    
+5) Run binary file:
+```
+    ./HomeWork1
+```  
 
 Or you can use your IDE. <br />
