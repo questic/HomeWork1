@@ -11,8 +11,6 @@ int main() {
     bool isWriting = true;
     std::stringstream inputData;
 
-    std::cout.precision(3);
-
     if (!IsFileExist(FILE_NAME)) {
         std::cout << "File does not exist. The file will be created automatically." << std::endl;
 
