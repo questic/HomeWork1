@@ -1,15 +1,15 @@
 # HomeWork1
 
-##How to build
+## How to build
 
-Go to the directory with source code
-Make directory for build:
-    mkdir build
-Run cmake:
-    cmake ..
-Run make:
-    make
-Run binary file:
-    ./HomeWork1
+Go to the directory with source code <br />
+Make directory for build:< br />
+    mkdir build <br />
+Run cmake: <br /> 
+    cmake .. <br />
+Run make: <br />
+    make <br />
+Run binary file: <br />
+    ./HomeWork1 <br />
 
-Or you can use your IDE.
+Or you can use your IDE. <br />
